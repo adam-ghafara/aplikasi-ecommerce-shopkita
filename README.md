@@ -1,6 +1,11 @@
 # E-Commerce-Website-Using-PHP
 
 ## Summary
+
+This is modified project for QA testing. The original goes here...
+
+[https://github.com/mohsinenur/E-Commerce-Website-Using-PHP](https://github.com/mohsinenur/E-Commerce-Website-Using-PHP)
+
 Hello friends, This is my first full e-commerce project. This is free. Anybody can use and moderate this project.
 
 ## Platform Used
